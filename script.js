@@ -15,7 +15,7 @@ var outerForecastContainerEl = document.querySelector(
 );
 var weatherDayDateEl = document.querySelector("#weather-day-date");
 
-var baseUrl = "http://api.openweathermap.org/";
+var baseUrl = "https://api.openweathermap.org/";
 var apiKey = "54330efedf22e2ce54f6bbcee8ed5498";
 
 // getting 5 days worth of data for city
